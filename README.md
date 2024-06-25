@@ -1,5 +1,7 @@
 # Call-of-Spider
 
+###### _Projet non fini_
+
 Bienvenue dans Call of Spider
 
 Le but du jeu est de tuer les araignées qui vont aparaitre aléatoirement afin de gagné des points  
